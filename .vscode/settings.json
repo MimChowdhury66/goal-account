@@ -1,0 +1,15 @@
+// {
+//     "files.watcherExclude": {
+//         "**/.git/objects/**": true,
+//         "**/.git/subtree-cache/**": true,
+//         "**/node_modules/*/**": true
+//       }
+// }
+
+
+{
+  "emmet.excludeLanguages": [
+    "markdown"
+  ],
+  "emmet.includeLanguages": {"javascript":"javascriptreact"}
+}
