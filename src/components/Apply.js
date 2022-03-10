@@ -1,4 +1,5 @@
 import React from 'react';
+import 'font-awesome/css/font-awesome.min.css';
 
 function Apply() {
 
@@ -9,7 +10,7 @@ function Apply() {
             <h1 className='text-primary mb-5 mt-5'><b>Apply online</b></h1>
      
      {/* apply form */}
-            <form className="row g-3">
+            <form className="row g-3 fs-6">
   <div className="col-md-4">
     <label htmlFor="validationDefault01" className="form-label">FULL NAME</label>
     <input type="text" className="form-control" id="validationDefault01" required/>
