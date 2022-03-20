@@ -5,6 +5,8 @@ import './App.css';
 import Apply from "./components/Apply";
 import Contact from "./components/Contact";
 import Home from "./components/Home";
+import Notfound from "./components/Notfound";
+import TipsDetails from "./components/TipsDetails";
 
 function App  () {
   return (
@@ -23,6 +25,14 @@ function App  () {
         <Route path="/contact">
           <Contact></Contact>
         </Route>
+        <Route path="/details/:id">
+        <TipsDetails></TipsDetails>
+        </Route>
+       
+        <Route path ="*">
+<Notfound></Notfound>
+        </Route>
+        
       </Switch>
       </BrowserRouter>
       {/* <Home></Home> */}

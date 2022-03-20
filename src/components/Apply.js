@@ -1,5 +1,4 @@
 import React from 'react';
-import 'font-awesome/css/font-awesome.min.css';
 
 function Apply() {
 
@@ -12,7 +11,7 @@ function Apply() {
      {/* apply form */}
             <form className="row g-3 fs-6">
   <div className="col-md-4">
-    <label htmlFor="validationDefault01" className="form-label">FULL NAME</label>
+    <label htmlFor="validationDefault01" className="form-label"><i className="fas fa-file-signature"> </i> FULL NAME</label>
     <input type="text" className="form-control" id="validationDefault01" required/>
   </div>
   {/* <div className="col-md-4">
@@ -21,7 +20,7 @@ function Apply() {
   </div> */}
 
 <div className="col-md-3">
-    <label htmlFor="validationDefault04" className="form-label">PREFERRED BRANCH</label>
+    <label htmlFor="validationDefault04" className="form-label"><i className="fas fa-code-branch"> </i> PREFERRED BRANCH</label>
     <select className="form-select" id="validationDefault04" required>
       <option selected disabled value="">Choose...</option>
       <option>ASHULIA BRANCH</option>
@@ -32,29 +31,29 @@ function Apply() {
     </select>
   </div>
   <div className="col-md-4">
-    <label htmlFor="validationDefaultUsername" className="form-label">EMAIL ADDRESS</label>
+    <label htmlFor="validationDefaultUsername" className="form-label"><i className="fas fa-envelope"> </i> EMAIL ADDRESS</label>
     <div className="input-group">
       <input type="text" className="form-control" id="validationDefaultUsername"  aria-describedby="inputGroupPrepend2" required/>
     </div>
   </div>
   <div className="col-md-4">
-    <label htmlFor="validationDefaultUsername" className="form-label">MOBILE NUMBER</label>
+    <label htmlFor="validationDefaultUsername" className="form-label"><i className="fas fa-mobile"></i>  MOBILE NUMBER</label>
     <div className="input-group">
       <input type="number" className="form-control" id="validationDefaultUsername"  aria-describedby="inputGroupPrepend2" required/>
     </div>
   </div>
   
   <div className="col-md-6">
-    <label htmlFor="validationDefault03" className="form-label">ADDRESS</label>
+    <label htmlFor="validationDefault03" className="form-label"><i className="fas fa-map-marker-alt"> </i> ADDRESS</label>
     <input type="text" className="form-control" id="validationDefault03" required/>
   </div>
   
   <div className="col-md-3">
-    <label htmlFor="validationDefault05" className="form-label">NID NUMBER</label>
+    <label htmlFor="validationDefault05" className="form-label"><i className="fas fa-id-card"> </i> NID NUMBER</label>
     <input type="number" className="form-control" id="validationDefault05" required/>
   </div>
   <div className="col-md-3">
-    <label htmlFor="validationDefault04" className="form-label">PROFESSION</label>
+    <label htmlFor="validationDefault04" className="form-label"><i className="fas fa-user-tie"> </i> PROFESSION</label>
     <select className="form-select" id="validationDefault04" required>
       <option selected disabled value="">Choose...</option>
       <option>SERVICE</option>

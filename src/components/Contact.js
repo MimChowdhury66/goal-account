@@ -1,6 +1,9 @@
 import React from 'react';
 
+
+
 const Contact = () => {
+  
     return (
         <div>
             <h1 className="title mt-5"><b>All Contact List</b></h1>
@@ -8,8 +11,8 @@ const Contact = () => {
             <br />
             Contact today of our officers and start SAVINGS</p>
 
-            <div className='container'>
-            <table className="fs-5 table m-3 table-striped">
+            <div className='container w-50'>
+            <table className=" table table-striped">
   <thead>
     <tr>
       <th scope="col">#</th>
@@ -53,7 +56,6 @@ const Contact = () => {
   </tbody>
 </table>
             </div>
-
         </div>
     );
 };

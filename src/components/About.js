@@ -2,7 +2,7 @@ import React from 'react';
 import './About.css'
 const About = () => {
     return (
-        <div className='mb-5'>
+        <div className='mb-5 mt-5'>
             <h1 className='title'>About Goal Account</h1>
             <div className="row row-cols-1 row-cols-md-3 row-cols-sm-12 g-4 m-5 ">
   <div className="col mb-5">

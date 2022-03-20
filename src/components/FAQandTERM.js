@@ -2,9 +2,9 @@ import React from 'react';
 
 const FAQandTERM = () => {
     return (
-        <div className=" m-5 mt-5 mb-5 title">
+        <div className="container mt-5 mb-5 title">
         <div className='row align-items-center mt-5 mb-5'>
-            <div className='col col-md-6 col-sm-12'>
+            <div className='col col-md-6 col-sm-12 col-12'>
                 <h2>FAQ's</h2>
                 <div className="accordion accordion-flush" id="accordionFlushExample">
   <div className="accordion-item">
@@ -77,7 +77,7 @@ Please keep in mind that the goal will not be created if
 
             {/* terms and condition section */}
 
-            <div className='col col-md-6 col-sm-12 mt-2'>
+            <div className='col col-md-6 col-sm-12 col-12 mt-3'>
             <h2>Terms & Conditions</h2>
 
             <div>
