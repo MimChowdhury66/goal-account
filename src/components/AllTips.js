@@ -1,5 +1,6 @@
+import { NavLink } from 'react-router-dom';
 import React, { useEffect, useState } from 'react';
-import { NavLink } from 'react-router-dom/cjs/react-router-dom.min';
+
 
 const AllTips = () => {
     const [tips, setTips]= useState([]);
@@ -22,16 +23,17 @@ const AllTips = () => {
                     {
                         tips.map(tip=>
                             // eslint-disable-next-line react/jsx-key
-                            <div key={tip.id} className="col-md-4 mb-4 mx-auto">
+                            <div key={tip?.id} className="col-md-4 mb-4 mx-auto">
                                 <div className="card h-100">
                                     <div className="card-body">
-                                        <h5 className="card-title text-center mb-3 text-warning">{tip.name}</h5>
-                                        <p className="card-text "><b>
-                                        {tip.description}</b> </p>
+
+                                        <h5 className="card-title text-center mb-3 text-warning">{tip?.name} <i className="fas fa-chevron-right"></i></h5>
+                                        <h6 className="card-text ">
+                                        {tip?.description} </h6>
                                     </div>
 
 
-                                    <NavLink to={`/details/${tip?.id}`} >
+                                    <NavLink to={`/tipsdetails/${tip?.id}`} >
                                         <button className="button btn btn-outline-primary w-100 "><i className="fab fa-readme"></i> Read More</button>
                                     </NavLink>
 

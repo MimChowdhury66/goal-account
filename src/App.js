@@ -16,16 +16,16 @@ function App  () {
       <Route exact path="/">
           <Home></Home>
         </Route>
-        <Route path="/home">
+        <Route exact path="/home">
           <Home></Home>
         </Route>
-        <Route path="/apply">
+        <Route exact path="/apply">
           <Apply></Apply>
         </Route>
-        <Route path="/contact">
+        <Route exact path="/contact">
           <Contact></Contact>
         </Route>
-        <Route path="/details/:id">
+        <Route exact path="/tipsdetails/:id">
         <TipsDetails></TipsDetails>
         </Route>
        

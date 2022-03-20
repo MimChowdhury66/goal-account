@@ -1,32 +1,32 @@
 [
     {
         "id":1,
-        "name": "Simple methods for saving money",
+        "name": "Keep a record of your expenditures",
         "description":"The hardest part of saving money is often just getting started. Simple strategies to save money can be difficult to come up with."
     },
     {
         "id":2,
-        "name": 2,
-        "description":2
+        "name": "Distinguish between wants and necessities",
+        "description":"Is that 42-inch flat-screen television really necessary? When money is scarce, only spend what is absolutely essential."
     },
     {
         "id":3,
-        "name": 1,
-        "description":1
+        "name": "Reduce your energy costs",
+        "description":"When appliances and lights are not in use, turn them off. Invest in energy-saving light bulbs. Use a fan instead of air conditioning or a sweater instead of putting on the heat when possible."
     },
     {
         "id":4,
-        "name": 1,
-        "description":1
+        "name": "Sell the goods you don't use.",
+        "description":"It's worth completing an audit of all your unneeded goods and selling them on an internet marketplace like Bikroy.com if you want to start saving money for your vacation right away."
     },
     {
         "id":5,
-        "name": 1,
-        "description":1
+        "name": "p",
+        "description":"p"
     },
     {
         "id":6,
-        "name": 1,
-        "description":1
+        "name": "q",
+        "description":"q"
     }
 ]
