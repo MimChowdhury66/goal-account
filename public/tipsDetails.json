@@ -2,7 +2,7 @@
     "details":[
         {
             "id":1,
-            "name": "Simple methods for saving money",
+            "name": "Keep a record of your expenditures ",
             "description":
             "a. Keep track of your expenses. The first step in beginning to save money is determining how much you spend. Keep note of all of your expenses, including coffee, groceries, and cash tips, as well as your normal monthly payments. You can use a pencil and paper, a simple spreadsheet, or a free online expenditure tracker or app to keep track of your expenses. Once you've gathered your information, sort it into categories like petrol, food, and mortgage payments, and add up the totals. Make sure you've included everything by checking your credit card and bank statements.                                       b. Make saving a priority in your budget. You can start making a budget now that you know how much you spend in a month. Your budget should indicate how your expenses compare to your income so that you can budget and avoid overpaying. Always remember to account for expenses that occur on a monthly basis but not every month, such as car maintenance. Include a savings category in your budget, and set a goal to save an amount that is comfortable to you at first. Plan to save up to 15% to 20% of your salary at some point in the future.                                                                                                              c. ",
             
@@ -10,31 +10,31 @@
         },
         {
             "id":2,
-            "name": "",
+            "name": "Distinguish between wants and necessities",
             "description":"",
             "img":""
         },
         {
             "id":3,
-            "name": "",
+            "name": "Reduce your energy costs",
             "description":"",
             "img":""
         },
         {
             "id":4,
-            "name": "",
+            "name": "Sell the goods you don't use",
             "description":"",
             "img":""
         },
         {
             "id":5,
-            "name": "",
+            "name": "Set Savings Objectives",
             "description":"",
             "img":""
         },
         {
             "id":6,
-            "name": "",
+            "name": "Identify and develop alternative sources of income.",
             "description":"",
             "img":""
         }

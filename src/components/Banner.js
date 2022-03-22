@@ -6,7 +6,7 @@ const Banner = () => {
             <div className="container">
                 <div className='row align-items-center mt-5 mb-5'>
                     <div className='col col-md-6 col-sm-12 col-12'>
-                        <img className='img-fluid' src={Logo} alt="" />
+                        <img className='img-fluid rounded w-100 h-100' src={Logo} alt="" />
                     </div>
                     <div className='col col-md-6 col-sm-12 col-12'>
                     <h3 className=" text-center text-warning">Are you looking for financial guidance?</h3>

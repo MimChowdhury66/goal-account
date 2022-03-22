@@ -35,7 +35,7 @@ const TipsDetails = () => {
             <div  className="row d-flex align-items-center justify-content-center middle">
                 <div className="col-md-6 col-12">
                     <div className="mb-4 ">
-                        <img className="img-fluid w-75 h-50 m-3  rounded" src={detail?.img} alt="" />
+                        <img className="img-fluid w-75 h-50 margin  rounded" src={detail?.img} alt="" />
                     </div>
                 </div>
                 <div className="col-md-6 col-12">

@@ -16,17 +16,17 @@
     },
     {
         "id":4,
-        "name": "Sell the goods you don't use.",
+        "name": "Sell the goods you don't use",
         "description":"It's worth completing an audit of all your unneeded goods and selling them on an internet marketplace like Bikroy.com if you want to start saving money for your vacation right away."
     },
     {
         "id":5,
-        "name": "p",
-        "description":"p"
+        "name": "Set Savings Objectives",
+        "description":"Want to buy a property with a 20% down payment in three years? You now have a goal in mind and know how much money you'll need to save each month to reach it."
     },
     {
         "id":6,
-        "name": "q",
-        "description":"q"
+        "name": "Identify and develop alternative sources of income.",
+        "description":"Start thinking outside the box and you'll be able to simply raise your monthly savings commitment."
     }
 ]
