@@ -3,7 +3,7 @@
 website: https://dynamic-gingersnap-f1bf56.netlify.app/
 ## About Website
 
-It is a full responsive landing page website. In this website you will find a savings goal calculator from where a customer can calculate calculate their savings goal, get tips and tricks regarding their everyday/monthly expenditure as well as create a goal account instantly. 
+It is a full responsive landing page website. In this website you will find a savings goal calculator from where a customer can calculate their savings goal, get tips and tricks regarding their everyday/monthly expenditure as well as create a goal account instantly. 
 
 ### Features
 
