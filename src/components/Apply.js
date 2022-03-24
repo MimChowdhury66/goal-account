@@ -5,7 +5,7 @@ function Apply() {
   
     return (
       
-        <div className='container mt-5'>
+        <div className='container mt-5 mb-5'>
             <h1 className='text-primary mb-5 mt-5'><b>Apply online</b></h1>
      
      {/* apply form */}
