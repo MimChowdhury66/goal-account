@@ -2,7 +2,7 @@ import React from 'react';
 
 const FAQandTERM = () => {
     return (
-        <div className="container mt-5 mb-5 title">
+        <div className="container  mt-5 mb-5 title">
         <div className='row align-items-center mt-5 mb-5'>
             <div className='col col-md-6 col-sm-12 col-12'>
                 <h2>FAQ's</h2>
@@ -85,7 +85,8 @@ Please keep in mind that the goal will not be created if
             </div>
             <div className='text-start text-dark'>
               <h6>* Customers must have legitimate and active internet banking access to their accounts in order to participate in this program.</h6>
-              <h6>* A.</h6>
+              <h6>* Customers will be asked to select a certain amount and other details as required by bank policy, process, and terms at the time of generating the deposit. Customers are only allowed to make one Recurring Deposit with the bank per account created under this scheme. The Goal Amount designated to a related Recurring Deposit opened under this program might range from BDT 10,00,000 (ten lakh) to BDT 50000 (fifty thousand).</h6>
+              <h6>* Customer/s may deposit funds into the Recurring Deposit Account/s at any time throughout the Tenure of the Recurring Deposit/s in the form and manner approved by the bank policy/process/terms after opening the Recurring Deposit/s under this program. Customers may fund their recurring deposits through the bank's internet banking or mobile banking services, or by any other modes or means that the bank may make available from time to time, subject to the terms that the bank may specify from time to time.</h6>
               
             </div>
 
